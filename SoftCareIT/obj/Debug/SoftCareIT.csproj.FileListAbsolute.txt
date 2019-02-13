@@ -1,0 +1,76 @@
+D:\Smart_School\Smart_School\bin\Debug\SoftCareIT_Data.mdf
+D:\Smart_School\Smart_School\bin\Debug\SoftCareIT_Data_log.ldf
+D:\Smart_School\Smart_School\bin\Debug\Smart_School.exe.config
+D:\Smart_School\Smart_School\bin\Debug\Smart_School.exe
+D:\Smart_School\Smart_School\bin\Debug\Smart_School.pdb
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.csprojResolveAssemblyReference.cache
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.Add_Employees.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.Change_Password.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.LogIn.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.About.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.MDI_Main.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.Password_Recovery.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.Properties.Resources.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.Register_LogIn.resources
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.Sent_Email.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.csproj.GenerateResource.Cache
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.exe
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.pdb
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.View_Employees.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.Add_Employees.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.Change_Password.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.LogIn.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.About.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.MDI_Main.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.Password_Recovery.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.Register_LogIn.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.Sent_Email.resources
+D:\Smart_School\Smart_School\obj\Debug\SoftCareIT.View_Employees.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT_Data.mdf
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT_Data_log.ldf
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Add_Employees.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Change_Password.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.LogIn.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.About.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.MDI_Main.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Password_Recovery.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Register_LogIn.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Sent_Email.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Update_Employees.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.View_Employees.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.csproj.GenerateResource.Cache
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Entry.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Exit.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Attendance_View.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT.exe.config
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT.exe
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT.pdb
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Properties.Resources.resources
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.exe
+D:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.pdb
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT.exe.config
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.exe
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.pdb
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT_Data.mdf
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT_Data_log.ldf
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT.exe
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT.pdb
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Attendance_View.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Entry.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Add_Employees.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Change_Password.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Exit.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.LogIn.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.About.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.MDI_Main.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Password_Recovery.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Properties.Resources.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Register_LogIn.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Sent_Email.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.Update_Employees.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.View_Employees.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.csproj.GenerateResource.Cache
+E:\Important File\Programs\C#\FormsApplication\SoftCareIT\SoftCareIT\bin\Debug\SoftCareIT.exe.config
+E:\Important File\Programs\C#\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.exe
+E:\Important File\Programs\C#\FormsApplication\SoftCareIT\SoftCareIT\obj\Debug\SoftCareIT.pdb

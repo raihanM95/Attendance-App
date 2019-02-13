@@ -1,0 +1,22 @@
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\bin\Debug\Smart_School.exe.config
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\bin\Debug\Smart_School.exe
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\bin\Debug\Smart_School.pdb
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.LogIn.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.Properties.Resources.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.csproj.GenerateResource.Cache
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.exe
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.pdb
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.Change_Password.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.Register_LogIn.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\bin\Debug\School_Data.mdf
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\bin\Debug\School_Data_log.ldf
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.MDI_Main.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.Add_Students.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.View_Students.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.Password_Recovery.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.Sent_Email.resources
+E:\Important File\Programs\Visual Studio\FormsApplication\Smart_School\Smart_School\obj\Debug\Smart_School.About.resources
+D:\Smart_School\Smart_School\bin\Debug\Smart_School.exe.config
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.exe
+D:\Smart_School\Smart_School\obj\Debug\Smart_School.pdb
